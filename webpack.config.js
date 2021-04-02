@@ -8,7 +8,10 @@ module.exports = {
     path: path.resolve(__dirname, './dist'),
     publicPath: '/dist/',
     // filename: 'build.js'
-    filename: 'EchartsBLP.js'
+    filename: 'EchartsBLP.js',
+    // library: 'EchartsBLP',
+    // libraryTarget: 'umb',
+    // umbNamedDefine: 'true'
   },
   module: {
     rules: [
