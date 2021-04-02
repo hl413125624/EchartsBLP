@@ -9,9 +9,9 @@ module.exports = {
     publicPath: '/dist/',
     // filename: 'build.js'
     filename: 'EchartsBLP.js',
-    // library: 'EchartsBLP',
-    // libraryTarget: 'umb',
-    // umbNamedDefine: 'true'
+    // library: 'catnull',
+    // libraryTarget: 'umd',
+    // umbNamedDefine: true
   },
   module: {
     rules: [

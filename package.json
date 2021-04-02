@@ -1,10 +1,11 @@
 {
   "name": "catnull",
-  "description": "A Vue.js project",
+  "description": "echarts合并插件",
   "version": "1.0.1",
   "author": "413125624@qq.com",
   "license": "MIT",
   "private": false,
+  "main": "/dist/EchartsBLP.js",
   "repository": {
     "type":"git",
     "url": "https://github.com/hl413125624/EchartsBLP.git"
